@@ -1,8 +1,10 @@
 # Get It Done
 
-**[Hackathon winning]a web app that can be used to track the progress of time spent on goals you want to achieve.
+#Hackathon_winning
+----
+A web app that can be used to track the progress of time spent on goals you want to achieve.
 
-## Link to live website - [get-it-done-git-master-juggernaut9.vercel.app](https://get-it-done-git-master-juggernaut9.vercel.app/)
+## Link to live website - 
 
 ## Features -
 
