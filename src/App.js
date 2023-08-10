@@ -186,7 +186,7 @@ function App(props) {
                   {darkState ? <Brightness7Icon /> : <Brightness4Icon />}
                 </IconButton>
                 <Link
-                  href="https://github.com/Juggernaut9/get-it-done"
+                  href="https://github.com/palak2002/get-it-done"
                   target="_blank"
                   rel="noopener noreferrer"
                   color="inherit"
