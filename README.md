@@ -1,8 +1,10 @@
 # Get It Done
 
-**[Hackathon winning](https://www.linkedin.com/posts/mintbean_mintbeanhackathon-mintbean-hackathon-activity-6757030650957619200-xUa8)** goal tracker app made by [@BhavyaCodes](https://github.com/BhavyaCodes) and [@priya28139](https://github.com/priya28139). The challange for the hackathon was to make a web app that can be used to track the progress of time spent on goals you want to achieve.
+#Hackathon_winning
+----
+A web app that can be used to track the progress of time spent on goals you want to achieve.
 
-## Link to live website - [get-it-done-git-master-juggernaut9.vercel.app](https://get-it-done-git-master-juggernaut9.vercel.app/)
+## Link to live website - 
 
 ## Features -
 
